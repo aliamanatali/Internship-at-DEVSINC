@@ -1,0 +1,51 @@
+*{
+  font-family: 'Josefin Sans', sans-serif;
+}
+.btn{
+  border-radius: 25px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
+  padding: 10px 20px 10px 20px;
+}
+.marginn{
+  padding-top: 20px;
+}
+.bg{
+  background: linear-gradient(to right, #162a6b, #00172e);
+  height: 100vh;
+}
+.bgg{
+  background-image: url(/Project/images/mainImage.png);
+  height: 90vh;
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: auto; 
+  margin-right: 90px;
+}
+.navlinks{
+  margin-left: 30px;
+}
+.logo{
+  margin-left: 30px;
+}
+.getFreeQuote{
+  margin-right: 20px;
+}
+.maintext{
+  padding-top: 15vh;
+  padding-left: 6rem;
+}
+.maintext h1{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 4rem;
+}
+.maintext p{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 1.2rem;
+}
+.OurServices{
+  background: linear-gradient(to bottom, rgb(248, 73, 73), rgb(255, 73, 73));
+  color: white;
+}
