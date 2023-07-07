@@ -49,3 +49,215 @@
   background: linear-gradient(to bottom, rgb(248, 73, 73), rgb(255, 73, 73));
   color: white;
 }
+.scdScreen{
+  margin-top: 200px;
+  text-align: center;
+  height: 100vh;
+}
+.scdScreen h6{
+  font-size: 1.1rem;
+  color:  rgb(248, 73, 73);
+}
+.scdScreen h1{
+  font-size:3rem;
+}
+.one h4, .two h4, .three h4{
+  padding-top: 3.5rem;
+}
+.trdScreen{
+  background-color: rgb(241, 248, 250);
+}
+.bggg{
+  padding-top: 8rem;
+  height: 123vh;
+}
+.imgggg img{
+  padding-left: 3rem;
+}
+.absolute{
+  position: absolute;
+  left: 35%;
+  bottom: 30%;
+  width: 80%;
+}
+.absolute img{
+ border-radius: 10px;
+}
+.pinkIcon{
+  width: 30%;
+}
+.relative{
+  position: relative;
+  left: 5%;
+}
+.relative img{
+  width: 65%;
+}
+.fourthScreen{
+  background: linear-gradient(to right,  #001020, #1c3279);
+  height: 120vh;
+}
+.fthPad{
+  padding-top: 6rem;
+}
+.bb p{
+  font-size: 17px;
+}
+.icon{
+  color: white;
+  font-size: 2.5rem;
+  /* width: 50%;
+  margin-left: auto;
+  margin-right: auto; */
+}
+.borderr{
+  border-style: solid;
+  border-color: grey;
+  border-width: 1px;
+  padding: 50px 25px 50px 25px;
+  /* trbl */
+}
+.ttt{
+  padding-top: 15%;
+}
+.lRow{
+  margin-top: 5rem;
+  text-align: center;
+  
+}
+.lRow p{
+  color: white;
+  font-size: 17px;
+}
+.divv{
+  width: 100%;
+  margin-top: 10rem;
+}
+.divv h1{
+font-size: 3rem;
+font-weight: bold;
+}
+.divv p{
+font-size: 18px;
+}
+.RequestaQuote{
+  padding-left: 32px;
+  padding-right: 32px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  color: rgb(248, 73, 73);
+  border-color: rgb(248, 73, 73);
+}
+.RequestaQuote:hover{
+  color: white;
+  background-color: rgb(248, 73, 73) ;
+}
+.pp{
+  font-size: 1.2rem;
+}
+.pp h1{
+  font-size: 4rem;
+}
+.rr h1{
+  text-align: center;
+}
+.SOGS{
+  width: 100%;
+  margin-top: 7rem;
+}
+.SOGS h1{
+font-size: 3rem;
+font-weight: bold;
+}
+.frst{
+  background-image: url(/Project/images/first.png);
+  box-shadow: inset 0 0 0 1000px rgba(47, 32, 131, 0.425);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 46vh;
+  border-radius: 10px;
+}
+.frst h4, .snd h4, .trd h4{
+  
+  font-size: 1.7rem;
+  font-weight: bold;
+  letter-spacing:4px;
+  margin-bottom: 0px;
+}
+.frst p, .snd p, .trd p{
+  font-size: 8px;
+  letter-spacing: 3px;
+  margin-bottom: 3rem;
+}
+.frst i, .snd i, .trd i{
+  color: white;
+  font-size: 1.4rem;
+  padding-top: 7rem;
+  padding-bottom: 0.5rem;
+}
+.snd{
+  background-image: url(/Project/images/sec.png);
+  box-shadow: inset 0 0 0 1000px rgba(47, 32, 131, 0.425);
+  background-size: 100%;
+  border-radius: 10px;
+  height: 46vh;
+  background-repeat: no-repeat;
+}
+.trd{
+  background-image: url(/Project/images/third.png);
+  box-shadow: inset 0 0 0 1000px rgba(47, 32, 131, 0.425);
+  background-size: 100%;
+  height: 46vh;
+  background-repeat: no-repeat;
+  border-radius: 10px;
+}
+.fff h4{
+  font-weight: bold;
+  font-size: 1.4rem;
+}
+.fff{
+  margin-bottom: 100px;
+}
+.bgL{
+  background-image: url(/Project/images/bgL.png);
+  box-shadow: inset 0 0 0 1000px rgba(47, 32, 131, 0.425);
+  background-repeat: no-repeat;
+  height: 96vh;
+  width: 100%;
+}
+.GetStartedNow{
+  color:rgb(248, 73, 73);
+  border-radius: 30px;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  -ms-border-radius: 30px;
+  -o-border-radius: 30px;
+}
+.playbutton{
+  color:rgb(248, 73, 73);
+  font-size: 80px;
+  padding-bottom: 40px;
+}
+.paddd{
+  margin-top: 150px;
+}
+.EmailAddress{
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  padding: 10px;
+  border-radius: 30px;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  -ms-border-radius: 30px;
+  -o-border-radius: 30px;
+}
+.iconfour{
+  font-size: 25px;
+}
+.pinkk{
+  color:rgb(248, 73, 73);
+}
+.txtsma p{
+  font-size: 15px;
+}
