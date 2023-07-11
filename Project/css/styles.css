@@ -104,7 +104,7 @@
   font-size: 17px;
 }
 .icon{
-  color: white;
+  color: rgb(248, 73, 73);
   font-size: 2.5rem;
   /* width: 50%;
   margin-left: auto;
@@ -119,7 +119,9 @@
 }
 .ttt{
   padding-top: 15%;
+  font-size: 1.1rem;
 }
+
 .lRow{
   margin-top: 5rem;
   text-align: center;
@@ -132,13 +134,17 @@
 .divv{
   width: 100%;
   margin-top: 10rem;
+  margin-left: 130px;
+  margin-right: 130px;
 }
 .divv h1{
 font-size: 3rem;
 font-weight: bold;
 }
 .divv p{
-font-size: 18px;
+font-size: 20px;
+margin-left: 120px;
+margin-right: 120px;
 }
 .RequestaQuote{
   padding-left: 32px;
@@ -157,6 +163,11 @@ font-size: 18px;
 }
 .pp h1{
   font-size: 4rem;
+}
+.pp p{
+  padding-left: 70px;
+  padding-right: 70px;
+  /* width: 70%; */
 }
 .rr h1{
   text-align: center;
@@ -216,6 +227,9 @@ font-weight: bold;
   font-size: 1.4rem;
 }
 .fff{
+  margin-top: 30px;
+  max-width: 100%;
+  padding: 0px;
   margin-bottom: 100px;
 }
 .bgL{
@@ -249,7 +263,7 @@ font-weight: bold;
   border-radius: 30px;
   -webkit-border-radius: 30px;
   -moz-border-radius: 30px;
-  -ms-border-radius: 30px;
+  -ms-border-radiusOurServices: 30px;
   -o-border-radius: 30px;
 }
 .iconfour{
@@ -260,4 +274,205 @@ font-weight: bold;
 }
 .txtsma p{
   font-size: 15px;
+}
+
+@media screen and (max-width: 768px) {
+
+  .bgg{
+    background-image: none;
+    height: 0vh;
+    background-size: auto; 
+    margin-right: 0px;
+  }
+  .bgg h1{
+
+  }
+
+  .maintext {
+    padding-top: 7vh;
+    padding-left: 1.5rem;
+    width: 100%;
+    padding-right: 0px;
+    margin-right: 0px;
+}
+.maintext h1{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 28px;
+}
+.maintext p{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 1rem;
+  padding-top: 20px;
+}
+.bg {
+  background: linear-gradient(to right, #162a6b, #00172e);
+  height: 50vh;
+  /* width: max-content; */
+}
+.OurServices{
+  margin-top: 22px;
+}
+.logo {
+    margin-left: 00px;
+}
+.scdScreen {
+  margin-top: 62px;
+  text-align: center;
+  height: 162vh;
+  /* margin-left: 12px; */
+}
+
+.scdScreen h1 {
+  font-size: 1.5rem;
+  margin-bottom: 100px;
+  font-weight: bold;
+}
+.scdScreen h4{
+  font-size: 1.2rem;
+}
+.scdScreen p{
+  font-size: 0.9rem;
+  margin-top: 2.2rem;
+  
+}
+.two, .three{
+  margin-top: 6rem;
+}
+.relative img {
+  width: 100%;
+}
+.imgggg img {
+  padding-left: 0rem;
+}
+.bggg {
+  padding-top: 7rem;
+  height: 133vh;
+  width: 100%;
+}
+.relative{
+  position: relative;
+  left: 0%;
+  right: 10%;
+}
+.absolute {
+  position: absolute;
+  left: 11%;
+  bottom: 1%;
+  width: 80%;
+}
+.gybf h1{
+  font-size: 23px;
+  margin-top: 30px;
+  margin-left: 15px;
+}
+.fgh{
+  margin-top: 20px;
+  width: 100%;
+  padding-right: 20px;
+}
+.fgv{
+  margin-top: 50px;
+}
+.fgvtwo{
+  margin-top: 20px;
+}
+.fthPad {
+  padding-top: 3rem;
+}
+.text-light {
+  color: #f8f9fa!important;
+}
+.pt-5, .py-5 {
+  padding-top: 6rem!important;
+}
+.ItSer{
+  font-size: 25px;
+}
+.nnn{
+  padding-top: 32px;
+}
+.bb p{
+  font-size: 15px;
+}
+.borderr {
+  border-width: 1px;
+  padding: 35px 25px 30px 35px;
+}
+.ttt {
+  padding-top: 10%;
+}
+
+.fourthScreen {
+  background: linear-gradient(to right, #001020, #1c3279);
+  height: 138vh;
+}
+.lRow p {
+  font-size: 15px;
+}
+.divv h1 {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.divv {
+  width: 100%;
+  margin-top: 4rem;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.divv p {
+  font-size: 16px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.pp {
+  font-size: 1rem;
+}
+.RequestaQuote {
+  margin-top: 30px;
+}
+.pp h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.SOGS {
+  margin-top: 3rem;
+}
+.SOGS h1 {
+  font-size: 1.5rem;
+}
+.frst, .snd, .trd{
+  height: 34vh;
+}
+.fff h4{
+  font-weight: bold;
+  font-size: 1rem;
+}
+.fff{
+  margin-top: 30px;
+  max-width: 100%;
+  padding: 0px;
+  margin-bottom: 30px;
+}
+.pp p {
+  padding-top: 10px;
+  padding-left: 0px;
+  padding-right: 0px;
+  width: 100%;
+}
+.bgL {
+  height: 57vh;
+  background-size: auto;
+}
+.hj h1{
+  font-size: 1.5rem;
+}
+.GetStartedNow{
+  margin-top: 30px;
+}
+.paddd{
+  margin-top: 50px;
+}
+.txtsma p {
+  font-size: 11px;
+}
 }
